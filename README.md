@@ -24,10 +24,10 @@ This project targets global supply chain logisitical bottlenecks by evaluating *
 ## 🖥️ Dashboard UI Preview
 
 ### Executive Logistical Summary
-![Executive Summary](./dashboard_snapshots/Screenshot%202026-06-10%20174506.png)
+![Executive Summary](./dashboard_snapshots/1_Executive_Summary_Dashboard.png)
 
 ### Regional Shipping Deep-Dive
-![Shipping Performance](./dashboard_snapshots/Screenshot%202026-06-10%20174601.png)
+![Shipping Performance](./dashboard_snapshots/2_Shipping_Performance_Deepdive.png)
 
 ---
 
