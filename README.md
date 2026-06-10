@@ -43,9 +43,11 @@ This project targets global supply chain logisitical bottlenecks by evaluating *
       0
   )
 
+```text
   📁 Supply-Chain-Performance (Repository Root)
  ├── 📁 dashboard_snapshots
  │    ├── Screenshot 2026-06-10 174506.png   # Primary executive dashboard snapshot
  │    └── Screenshot 2026-06-10 174601.png   # Shipping performance deep-dive view
  ├── Supply_Chain_Delivery_Analysis.pbix     # Master Power BI application file
  └── README.md                               # Analytical executive presentation
+```
